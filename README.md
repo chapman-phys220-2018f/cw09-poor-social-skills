@@ -29,10 +29,7 @@ The lowest-order error is second-order in $h$, since the first-order error cance
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
-
+In this assignment, I found the planning stage to be particularly helpful.  In computer science, any time you are faced by a non-trivial problem, it helps immensely to plan out how you will solve the problem before you begin coding.  By doing this, you can identify where you should start, and avoid issues which arise due to having insufficient classes.
 ## Honor Pledge
 
 I pledge that all the work in this repository is my own with only the following exceptions:
@@ -42,4 +39,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Trevor Kliong**
